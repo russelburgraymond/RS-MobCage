@@ -16,6 +16,7 @@ RS-MobCages supports the following mobs:
 
 - Cow
 - Chicken
+- Goat
 - Pig
 - Sheep
 - Rabbit
@@ -39,6 +40,7 @@ RS-MobCages supports the following mobs:
 
 - Zombie
 - Spider
+- Skeleton
 - Cave Spider
 
 ---
