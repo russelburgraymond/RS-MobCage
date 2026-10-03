@@ -38,6 +38,8 @@ RS-MobCages supports the following mobs:
 
 ### Hostile Mobs
 
+- Slime
+- Magma Cube
 - Zombie
 - Spider
 - Skeleton
