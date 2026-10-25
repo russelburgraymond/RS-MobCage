@@ -16,7 +16,9 @@ RS-MobCages supports the following mobs:
 
 - Cow
 - Chicken
+- Copper Golem
 - Goat
+- Llama
 - Pig
 - Sheep
 - Rabbit
@@ -39,6 +41,7 @@ RS-MobCages supports the following mobs:
 ### Hostile Mobs
 
 - Slime
+- Creeper
 - Magma Cube
 - Zombie
 - Spider
