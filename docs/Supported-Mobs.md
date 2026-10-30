@@ -17,6 +17,7 @@ RS-MobCages supports the following mobs:
 - Cow
 - Chicken
 - Copper Golem
+- Fox
 - Goat
 - Llama
 - Pig
