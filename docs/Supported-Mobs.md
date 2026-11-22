@@ -20,6 +20,8 @@ RS-MobCages supports the following mobs:
 - Fox
 - Goat
 - Llama
+- Mooshroom
+- Panda
 - Pig
 - Sheep
 - Rabbit
